@@ -3,10 +3,10 @@
 
 This simple script provide converting stl document to image.
 
-###Supported OS:
+### Supported OS:
 Linux, Windows
 
-###Dependencies:
+### Dependencies:
 Python, Blender 2.64
 
 #### Example model by G4Cab
